@@ -9,12 +9,12 @@ As I'm very busy at the moment and cannot continue the online game or the source
 
 Installation
 ---------------------
-Step 1: Download CodeIgniter from codeigniter.com
-Step 2: Replace /application folder from CodeIgniter to the one in this repository
-Step 3: Insert /static folder into CodeIgniter installation
-Step 4: Create MySQL database and import schema.sql file into it
-Step 5: Update /application/config files with respective data (MySQL database only required; others are optional)
-Step 6: Installation complete!
+- Step 1: Download CodeIgniter from codeigniter.com
+- Step 2: Replace /application folder from CodeIgniter to the one in this repository
+- Step 3: Insert /static folder into CodeIgniter installation
+- Step 4: Create MySQL database and import schema.sql file into it
+- Step 5: Update /application/config files with respective data (MySQL database only required; others are optional)
+- Step 6: Installation complete!
  
 Notes
 ---------------------
